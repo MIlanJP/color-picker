@@ -11,7 +11,7 @@ export default class ColorBox extends Component {
              </div>
              <button className='copy-button' >COPY</button>
              </div>
-             <span>MORE</span>
+             <span className='see-more' >MORE</span>
             </div>
         )
     }
